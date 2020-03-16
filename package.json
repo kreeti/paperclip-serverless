@@ -1,0 +1,26 @@
+{
+  "name": "paperclip-serverless",
+  "version": "1.0.0",
+  "description": "Be serverless!",
+  "main": "handler.js",
+  "dependencies": {
+    "aws-sdk": "^2.639.0",
+    "fs": "0.0.1-security",
+    "path": "^0.12.7",
+    "sharp": "^0.25.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kreeti/paperclip-serverless.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kreeti/paperclip-serverless/issues"
+  },
+  "homepage": "https://github.com/kreeti/paperclip-serverless#readme"
+}
