@@ -11,7 +11,7 @@ custom:
 
 functions:
   imageDetails:
-    handler: handler.details
+    handler: src/imageDetails/handler.details
     environment:
       S3_RAW_BUCKET: ${self:custom.bucket}
     events:
