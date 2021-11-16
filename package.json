@@ -4,7 +4,7 @@
   "description": "Be serverless!",
   "main": "handler.js",
   "dependencies": {
-    "aws-sdk": "^2.642.0",
+    "aws-sdk": "^2.814.0",
     "fs": "0.0.1-security",
     "path": "^0.12.7",
     "sharp": "^0.25.1"
